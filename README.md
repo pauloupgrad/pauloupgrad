@@ -39,7 +39,7 @@
    <a href="https://twitter.com/webgraddesigner" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://mailto:pauloupgrad@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- Cobrinha snake -->
-   ![Snake animation](https://github.com/rafaballerini/pauloupgrad/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/pauloupgrad/pauloupgrad/blob/output/github-contribution-grid-snake.svg)
 </div>  
   
   ##
