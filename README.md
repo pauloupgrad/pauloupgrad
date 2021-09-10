@@ -1,6 +1,5 @@
-### Olá Eu sou o Paulo Upgrad 👋
-
-
+# E ai pessoal eu sou Paulo Upgrad 👋
+##
 - 🔭 Trabalho como front-end
 - 🌱 Estudando de tudo um pouco na minha aréa
 - 😄 Seja feliz no que faz
